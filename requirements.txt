@@ -1,0 +1,7 @@
+crawl4ai
+qdrant-client
+sentence-transformers
+python-dotenv
+requests
+streamlit
+pytest
